@@ -1,0 +1,11 @@
+{
+    "employee":[  
+    {
+    "name":"Akhil",
+    "department":"IT",
+    "gender":"Male",
+    "age":20,
+    "salary":"80000"
+    }
+    ]
+    }
